@@ -1,8 +1,8 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="VeRA MB"
+    name="VeRA 2.0"
     id="id-1234e26d"
-    purpose="Standaarden Forum Standaardisatie"
+    purpose="Standaarden Forum Standaardisatie&#xD;&#xA;VeRA 2.0 incl de Technische Referentie Architectuur&#xD;&#xA;&#xD;&#xA;Security Architectuur verwijderd&#xD;&#xA;Test Toine en Jannet verwijderd &#xD;&#xA;Alle branches netjes samengevoegd en conflicten opgelost."
     version="5.0.0">
   <properties
       key="Architectuurtool"
